@@ -6,8 +6,8 @@ export default function Hero() {
       <div className="h-screen">
         <img src={background} className="opacity-10 -z-10 absolute" />
         <div className=" h-4/5 flex flex-col justify-center space-y-20">
-          <span className="text-customBlue font-bold text-6xl">
-            It'more than
+          <span className="text-customBlue font-bold text-6xl text-shadow text-center">
+            It's more than
             <br />
             just a trip
           </span>
